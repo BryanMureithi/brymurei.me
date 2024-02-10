@@ -1,0 +1,8 @@
+{
+  "name": "SwiftTasks",
+  "url": "https://swifttasks.vercel.app/",
+  "description": "A simple To-Do app",
+  "thumbnail": "/projects/hawa.png",
+  "status": "Active",
+  "opensource": true
+}
