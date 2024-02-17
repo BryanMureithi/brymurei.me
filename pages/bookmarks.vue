@@ -37,8 +37,8 @@ useSeoMeta({
 const bookmarks = [
   {
     id: 1,
-    label: "Adam Wathan - Tailwind CSS Best Practice Patterns",
-    url: "https://www.youtube.com/watch?v=J_7_mnFSLDg",
+    label: "Aceternity UI",
+    url: "https://ui.aceternity.com/",
   },
   {
     id: 2,
