@@ -39,5 +39,10 @@ const links = [
     url: "https://www.linkedin.com/in/bryan-mureithi-237b33225/",
     icon: "mdi:linkedin",
   },
+  {
+    name: "Instagram",
+    url: "https://www.instagram.com/syre.bryan/",
+    icon: "mdi:instagram",
+  },
 ];
 </script>
