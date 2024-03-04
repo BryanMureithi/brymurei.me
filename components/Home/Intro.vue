@@ -31,11 +31,9 @@
       design).
     </p>
     <p class="text-gray-900 dark:text-gray-400">
-      By day, I'm a Fullstack Developer at
-      <a href="https://www.sortseam.com/" target="_blank" class="underline"
-        >Sortseam</a
-      >, and by night (and weekends), I'm busy tinkering with some random tool
-      or app that I am building.
+      By day, I'm a Freelance Software Developer and by night (and
+      weekends), I'm busy tinkering with some random tool or app that I am
+      building.
     </p>
   </div>
 </template>
