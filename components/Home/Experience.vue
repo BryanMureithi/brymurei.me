@@ -23,6 +23,6 @@
 
 <script lang="ts" setup>
 const { data: experiences } = await useAsyncData("experiences-home", () =>
-  queryContent("/experiences").limit(3).find()
+  queryContent("/experiences").limit(4).find()
 );
 </script>
