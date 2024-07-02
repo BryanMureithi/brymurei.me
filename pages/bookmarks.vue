@@ -110,6 +110,16 @@ const bookmarks = [
     label: "Rakko Tools",
     url: "https://en.rakko.tools/",
   },
+  {
+    id: 16,
+    label: "Pictographic Illustrations",
+    url: "https://pictographic.io/",
+  },
+  {
+    id: 17,
+    label: "Invision Design Resources",
+    url: "https://www.invisionapp.com/free-resources",
+  },
 ];
 
 function getHost(url) {
